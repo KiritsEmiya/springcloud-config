@@ -1,1 +1,2 @@
-config: info-msg-edit
+config:
+  info: info-msg
